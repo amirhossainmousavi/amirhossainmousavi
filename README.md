@@ -2,9 +2,9 @@
 
 # Amirhossein Mousavi
 
-### AI Infrastructure Engineer · ML Systems · Cloud & Distributed Infrastructure
+### ML Engineer · Reinforcement Learning · Deep Learning
 
-Building reliable infrastructure for AI systems, model serving, inference, and scalable compute.
+Building intelligent systems with **Machine Learning, Deep Learning, and Reinforcement Learning**.
 
 [![X](https://img.shields.io/badge/X-@amirshahriar__20-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/amirshahriar_20)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Amirhossein%20Mousavi-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amirshahriar-mousavi-438728201/)
@@ -14,65 +14,75 @@ Building reliable infrastructure for AI systems, model serving, inference, and s
 
 ---
 
-## 🧠 About
+## 🧠 About Me
 
-I'm an **AI Infrastructure Engineer** focused on the systems layer behind modern AI workloads — from compute and containers to distributed systems, model serving, inference, and observability.
+I'm an **ML Engineer** focused on building and experimenting with intelligent systems, with a particular interest in **Reinforcement Learning**.
 
-My interests sit at the intersection of **AI/ML, cloud infrastructure, Linux, Kubernetes, GPUs, and distributed systems**.
+My work and learning interests span **machine learning, deep learning, reinforcement learning, optimization, and scalable ML systems**.
 
 ```text
-AI Workloads
-     ↓
-Model Serving / Inference
-     ↓
-Distributed Compute
-     ↓
-Kubernetes · Containers · GPU
-     ↓
-Cloud · Networking · Storage
-     ↓
-Observability · Automation · Reliability
+Problem
+   ↓
+Data / Environment
+   ↓
+Learning Algorithm
+   ↓
+Model / Policy
+   ↓
+Training & Evaluation
+   ↓
+Deployment & Iteration
 ```
 
-## ⚙️ AI Infrastructure Stack
+## 🤖 Machine Learning Stack
 
-### AI / ML Infrastructure
+### Machine Learning & Deep Learning
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![CUDA](https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white)
-![vLLM](https://img.shields.io/badge/vLLM-000000?style=flat-square)
-![Ray](https://img.shields.io/badge/Ray-028CF0?style=flat-square&logo=ray&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 
-### Infrastructure & Cloud
+### Reinforcement Learning
+![Gymnasium](https://img.shields.io/badge/Gymnasium-0081A7?style=flat-square)
+![Stable Baselines3](https://img.shields.io/badge/Stable--Baselines3-1E88E5?style=flat-square)
+![Ray RLlib](https://img.shields.io/badge/RLlib-028CF0?style=flat-square&logo=ray&logoColor=white)
+
+**Areas of interest:**
+
+- Reinforcement Learning
+- Deep Reinforcement Learning
+- Policy Gradient Methods
+- Value-Based Learning
+- Actor–Critic Methods
+- Reward Design & Optimization
+- Sequential Decision Making
+- Simulation & Environment Design
+- Model Evaluation & Experimentation
+
+### Engineering & Experimentation
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
-
-### Reliability & Observability
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 
 ---
 
-## 🚀 What I'm Building Toward
+## 🔬 What I'm Exploring
 
-- Scalable **AI inference infrastructure**
-- High-performance **GPU workloads**
-- Reliable **LLM serving platforms**
-- Distributed AI/ML systems
-- Kubernetes-based AI platforms
-- Automated cloud infrastructure and deployment
-- Production-grade observability and reliability
+- 🧠 Reinforcement Learning algorithms and agents
+- 🎯 Policy optimization and decision-making
+- 🤖 Deep Learning architectures
+- 🧪 ML experimentation and evaluation
+- 🌍 Simulated environments and agent training
+- ⚡ Efficient training and inference
+- 🔧 Production-oriented ML engineering
 
 ---
 
 ## 🌐 Connect
 
-If you're working on **AI infrastructure, distributed systems, GPUs, Kubernetes, or ML platforms**, feel free to connect.
+If you're interested in **Machine Learning, Reinforcement Learning, Deep Learning, or intelligent systems**, feel free to connect.
 
 - **X:** [@amirshahriar_20](https://x.com/amirshahriar_20)
 - **LinkedIn:** [Amirhossein Mousavi](https://www.linkedin.com/in/amirshahriar-mousavi-438728201/)
@@ -80,6 +90,6 @@ If you're working on **AI infrastructure, distributed systems, GPUs, Kubernetes,
 
 <div align="center">
 
-### Building infrastructure for the next generation of AI systems. ⚡
+### Learning, building, and training intelligent systems. 🧠⚡
 
 </div>

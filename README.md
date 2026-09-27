@@ -8,7 +8,7 @@ Building reliable infrastructure for AI systems, model serving, inference, and s
 
 [![X](https://img.shields.io/badge/X-@amirshahriar__20-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/amirshahriar_20)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Amirhossein%20Mousavi-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amirshahriar-mousavi-438728201/)
-[![Telegram](https://img.shields.io/badge/Telegram-@amirhosseinmousavi__23-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/amirhosseinmousavi_23)
+[![Telegram](https://img.shields.io/badge/Telegram-@amirshahriarmousavi-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/amirhosseinmousavi_23)
 
 </div>
 
